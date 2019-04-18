@@ -2,10 +2,8 @@
 
 Experimentos da disciplina de DW.
 
-## Exemplos
+## USEFUL LINKS
 
-* [`exemplo-01`](https://arthur-es.github.io/) - Meu currículo.
+* [`My GitHub Page`](https://arthur-es.github.io/)
 
-## Links
 
-* [Markdown Guide](https://arthur-es.github.io/)
