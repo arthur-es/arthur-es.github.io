@@ -1,0 +1,185 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 100px auto 30px auto;
+  padding: 0;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+span {
+  text-decoration: underline;
+}
+p {
+  color: #40514;
+  width: 39%;
+  margin: 1rem auto;
+  font-family: 'Merriweather', serif;
+  line-height: 1.7;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 4rem auto 3rem auto;
+  clear: both;
+}
+/*******CLASSES********/
+
+.mountain {
+    position: relative;
+    margin: auto;
+}
+.top-cloud {
+    position: absolute;
+    top: 10%;
+    right: 13%;
+}
+.bottom-cloud {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+.profile img {
+  margin: 3rem auto 0.25rem auto;
+  border-radius: 100%;
+  width: 15%;
+  height: auto;
+}
+.whoAmI {
+  width: 45%;
+}
+.engSoftware {
+  text-decoration: none;
+  color: #66BFBF;
+  font-weight: 400;
+}
+.brazilianFlag {
+  display: inline-block;
+  position: relative;
+  top: 5.5px;
+  left: 4px;
+  width: 22px;
+}
+.designDev {
+  position: relative;
+  margin: 5rem auto 5rem auto;
+}
+.computerImg {
+  display: inline-block;
+  width: 14%;
+  position: relative;
+  right: 250px;
+  top: 30px;
+}
+.text-coding {
+  text-align: left;
+  position: absolute;
+  top: 36%;
+  left: 41%;
+}
+.header-coding {
+  position: absolute;
+  top: 14%;
+  left: 41%;
+}
+
+.designDev2 {
+  position: relative;
+  margin: 5rem auto 5rem auto;
+
+}
+.cellImg {
+  display: inline-block;
+  width: 12%;
+  position: relative;
+  left: 250px;
+  top: 30px;
+}
+.text-cell {
+  text-align: left;
+  position: absolute;
+  top: 40%;
+  left: 24%;
+
+}
+.header-cell {
+  position: absolute;
+  top: 14%;
+  left: 24%;
+}
+.bottom-container {
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+
+.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background-color:#66BFC1;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding: 6px 20px;
+  margin: 1rem auto;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.button:hover {
+	background-color:#66AABB;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-container {
+  position: relative;
+  background-color: #66BFC1;
+  padding: 1.5rem;
+  color: white;
+  text-decoration: none;
+}
+.footer-container a {
+  position: relative;
+  padding-right: 25px;
+  margin-top: 40px;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 30px;
+  color: #edf7f7;
+  text-decoration: none;
+}
+.footer-container a:hover {
+  color: white;
+}
+
+.footer-container p {
+  font-family: 'Montserrat', sans-serif;
+  margin: 30px auto 2px auto;
+  color: white;
+  font-size: 0.70rem;
+  text-align: center;
+  position: relative;
+  right: 12px;
+}
